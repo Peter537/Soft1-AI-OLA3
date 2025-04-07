@@ -1,4 +1,4 @@
-## Part 1
+## Part 2
 
 Choose a **simple task** you want an AI to help with (e.g., writing a poem, solving a coding problem, summarizing an article, etc.).
 
