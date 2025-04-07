@@ -6,11 +6,14 @@ Choose a **simple task** you want an AI to help with (e.g., writing a poem, solv
 
 #### Simple task: Poem (e.g)
 
+**Init Prompt:**
+```
 Write a poem about the beauty of nature.
-
+```
 
 **Example notes/idears:**
 - What is the task you want the AI to perform?
+- What does the initial prompt look like? (Keep it basic and direct.)
 
 ---
 
@@ -22,19 +25,12 @@ Submit the **raw response** from the LLM when you give it the simple task withou
 ### Answer
 *The raw response from the LLM*
 
-
-**Init Prompt:**
-```
-The simple prompt we created in Part 1
-```
-
 **Response:**
 ```
 The raw response from the LLM based on the simple prompt
 ```
 
 **Example notes/idears:**
-- What does the initial prompt look like? (Keep it basic and direct.)
 - How does the LLM respond to your unrefined prompt?
 - Are there noticeable issues (e.g., lack of clarity, missing details, inconsistent tone)?
 
