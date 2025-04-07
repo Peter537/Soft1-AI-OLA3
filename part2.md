@@ -49,7 +49,6 @@ Then, rewrite your prompt using the **4 T’s**:
 
 **Example notes/idears:**
 - How can we incorporate each of the 4 T’s into our prompt?
-- What are the key differences between our initial and refined prompts?
 - How do we expect the refined prompt to improve the response?
 
 
@@ -72,6 +71,9 @@ The prompt you created using the 4 T's
 ```
 The improved response from the LLM based on the refined prompt
 ```
+
+**Example notes/idears:**
+- What are the key differences between our initial and refined prompts?
 
 ---
 
