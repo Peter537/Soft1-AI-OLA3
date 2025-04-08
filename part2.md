@@ -13,7 +13,7 @@ Write a poem about the beauty of nature.
 
 **Example notes/idears:**
 - What is the task you want the AI to perform?
-    - e.g., "Write a short poem", "Explain a math problem", "Summarize a news article"
+    - e.g., "Write a poem short about the beauty of nature.", "Summarize a news article"
 
 ---
 
