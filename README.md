@@ -8,6 +8,6 @@
 
 ## Deliverables
 
-- Conceptual understanding in [part1.md](./part1.md)
+- 'Part 1: Conceptual Understanding (Theory)' in [part1.md](./part1.md)
 
-- Practical application in [part2.md](./part2.md)
+- 'Part 2: Practical Application (Hands-on Exercises)' in [part2.md](./part2.md)
